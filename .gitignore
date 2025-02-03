@@ -246,3 +246,4 @@ fabric.properties
 *.lnk
 *.xml
 /tests
+/.idea
